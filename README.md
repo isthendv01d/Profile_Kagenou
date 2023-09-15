@@ -5,4 +5,4 @@
 For information about the license, see "LICENSE"
 
 ### Uninteresting fact(s):
-- You won't see very much progress on this because I also have other things to do in life.
+- First version, now going to undergo revision.
